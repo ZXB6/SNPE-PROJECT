@@ -1,3 +1,6 @@
+### NOTES:<br>
+<h1>v8需要参照v5的结构修改 Impl.cpp部分的后处理</h1><br>
+
 ### yolov5 OBJECT DETECT
 ![v5](/v5detect.png)
 ### yolov8 OBJECT DETECT
